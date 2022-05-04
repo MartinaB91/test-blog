@@ -2,17 +2,19 @@
 name: USER STORY
 about: Template user stories
 title: ''
-labels: ''
+labels: User story
 assignees: ''
 
 ---
 
 As a ** ** I want to ** ** so that I can ** **.
 
-# Acceptance criterias:
+## Epic: 
+
+## Acceptance criterias:
 -
 -
 
-# Tasks:
+## Tasks:
 - [ ]
 - [ ]
