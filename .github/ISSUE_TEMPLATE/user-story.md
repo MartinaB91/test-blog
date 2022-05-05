@@ -12,8 +12,8 @@ As a ** ** I want to ** ** so that I can ** **.
 ## Epic: 
 
 ## Acceptance criterias:
--
--
+- **Given** ... , **when** ... , **then** ...
+
 
 ## Tasks:
 - [ ]
